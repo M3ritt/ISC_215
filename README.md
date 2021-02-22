@@ -4,7 +4,8 @@ This is the repository for the programs created for ISC 215: Program/Data Analys
 <h3> Labs: </h3>
 
 <ol>
-  <li> Lab 1 : Temperature converter </li>
-  <li> Lab 2 : Data preprocessing </li>
-  <li> Lab 3 : Simple Linear regression </li>
+  <li> Lab 1 : Temperature Converter </li>
+  <li> Lab 2 : Data Preprocessing </li>
+  <li> Lab 3 : Simple Linear Regression </li>
+  <li> Lab 4 : Multi Linear Regression </li>
 </ol>
