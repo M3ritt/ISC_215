@@ -1,0 +1,11 @@
+Item Covered,Level,Cost
+Electronic Device(<500),1,500
+Electronic Device(2000),2,2000
+Major Appliance,3,3000
+Home Equipment(10000),4,10000
+Furnace/Boiler/AC,5,15000
+Out Bldg,6,30000
+Roof,7,65000
+Auto,8,90000
+Home,9,500000
+Life,10,1000000
