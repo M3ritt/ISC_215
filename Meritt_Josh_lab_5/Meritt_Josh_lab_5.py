@@ -46,8 +46,8 @@ def visualize_linear_model(x, y, Linear_Regression):
     plt.title('Linear Model')
     plt.xlabel('Item Covered')
     plt.ylabel('Cost')
-    plt.show()
     plt.savefig('linear_model.png')
+    plt.show()
     print('[Process complete] linear_model.png')
     
 
@@ -65,8 +65,8 @@ def visualize_polynomial_model(x, y, line_reg_2, Polynomial_Regressor):
     plt.title('Polynomial Model')
     plt.xlabel('Item Covered')
     plt.ylabel('Cost')
-    plt.show()
     plt.savefig('polynomial_model.png')
+    plt.show()
     print('[Process complete] polynomial_model.png')
 
 
